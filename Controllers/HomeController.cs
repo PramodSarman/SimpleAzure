@@ -17,7 +17,7 @@ namespace SimpleAzure.Controllers
         {
             _logger = logger;
             //Commeneted
-            
+            //Testing
         }
 
         public IActionResult Index()
